@@ -1,5 +1,14 @@
 # Laravel ClickSend Notification Channel
 
+## Forked
+
+Since the Laravel notification channels repo never merged this, I've forked it in order to update it for use with newer Laravel versions.
+
+I'm happy to merge things back and contribute back to both the original contributor and to the Laravel Notifications Channels project. Just reach out and we'll collaborate.
+
+
+# Original README: 
+
 ## For submission to Laravel 
 
 This code is based on the Laravel Vonage Notification Channel. 
